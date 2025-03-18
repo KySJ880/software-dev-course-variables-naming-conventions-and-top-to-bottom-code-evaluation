@@ -33,4 +33,6 @@ console.log(d);
 let name = "Alice"
 let quantity = 5
 let sum = 20
-let purchase = a + " bought " + b + " items for $" + c + ".";
+let store = "Ky's shop"
+let date = "Tuesday"
+let purchase = a + " bought " + b + " items for $" + c + "at" + store + "on" + date + "."; 
