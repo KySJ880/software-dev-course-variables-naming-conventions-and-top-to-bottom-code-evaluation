@@ -30,3 +30,5 @@ let c = 20;
 let d = a + " bought " + b + " items for $" + c + ".";
 
 console.log(d);
+let name = "Alice"
+let 
