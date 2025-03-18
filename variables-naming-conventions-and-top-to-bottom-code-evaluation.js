@@ -31,4 +31,6 @@ let d = a + " bought " + b + " items for $" + c + ".";
 
 console.log(d);
 let name = "Alice"
-let 
+let quantity = 5
+let sum = 20
+let purchase = a + " bought " + b + " items for $" + c + ".";
